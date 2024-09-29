@@ -1,0 +1,25 @@
+These are extra sources we used in the implementation of our program
+
+Q-Learning Sources:
+    - https://www.geeksforgeeks.org/q-learning-in-python/?fbclid=IwAR3IuiUmXwy8YqtQgzDKFXbfdQPx7LDTUNJoZCgrzv443DRov_ZQUirGPI0
+    - https://towardsdatascience.com/simple-reinforcement-learning-q-learning-fcddc4b6fe56
+    - https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c
+DQN Sources:
+    - https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+    - https://datascience.stackexchange.com/questions/36450/what-is-the-difference-between-gradient-descent-and-stochastic-gradient-descent
+    - https://ai.stackexchange.com/questions/12255/can-q-learning-be-used-for-continuous-state-or-action-spaces
+    - https://ai.stackexchange.com/questions/20881/what-should-the-target-be-when-the-neural-network-outputs-multiple-q-values-in-d
+    - https://medium.com/@markus.x.buchholz/deep-reinforcement-learning-introduction-deep-q-network-dqn-algorithm-fb74bf4d6862
+    - https://towardsdatascience.com/reinforcement-learning-markov-decision-process-part-2-96837c936ec3
+    - https://towardsdatascience.com/deep-reinforcement-learning-build-a-deep-q-network-dqn-to-play-cartpole-with-tensorflow-2-and-gym-8e105744b998
+    - https://towardsdatascience.com/how-the-bellman-equation-works-in-deep-reinforcement-learning-5301fe41b25a
+    - https://towardsdatascience.com/deep-q-network-dqn-i-bce08bdf2af
+    - https://towardsdatascience.com/deep-q-network-dqn-ii-b6bf911b6b2c
+    - https://towardsdatascience.com/deep-q-network-dqn-iii-c5a83b0338d2
+    - https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca
+TD3 Sources:
+    - http://bicmr.pku.edu.cn/~wenzw/bigdata/lect-dyna3w.pdf
+    - https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#td3
+    - https://stable-baselines.readthedocs.io/en/master/modules/td3.html
+    - https://github.com/sfujim/TD3
+    - https://www.geeksforgeeks.org/q-learning-in-python/
